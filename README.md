@@ -1,1 +1,1 @@
-# ats-frontend
+# ats-resume-frontend
